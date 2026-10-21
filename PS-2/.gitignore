@@ -1,0 +1,12 @@
+# local environment
+.venv/
+__pycache__/
+*.pyc
+logs/
+
+# organiser-provided inputs (download separately; see README)
+shared-files/p2_data.zip
+data/p2_data/
+data/cifar10/
+data/cifar10_hf/
+data/surrogates/
